@@ -1,0 +1,21 @@
+.btn {
+    background-color:darkslategrey;
+    border-color:darkslategrey;
+}
+
+body {
+    background-color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card{
+    background-color:#D6EAF8;
+    text-align: center;
+    font-style: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
